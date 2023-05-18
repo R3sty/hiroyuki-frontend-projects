@@ -1,26 +1,26 @@
-# Front-end Style Guide
+# フロントエンドスタイルガイド
 
-## Layout
+## レイアウト
 
-The designs were created to the following widths:
+デザインは以下の幅に基づいて作成されました:
 
-- Mobile: 375px
-- Desktop: 1440px
+- モバイル: 375px
+- デスクトップ: 1440px
 
-## Colors
+## カラー
 
-- White: hsl(0, 0%, 100%)
-- Light gray: hsl(212, 45%, 89%)
-- Grayish blue: hsl(220, 15%, 55%)
-- Dark blue: hsl(218, 44%, 22%)
+- 白: hsl(0, 0%, 100%)
+- 薄いグレー: hsl(212, 45%, 89%)
+- 灰色がかった青: hsl(220, 15%, 55%)
+- 濃い青: hsl(218, 44%, 22%)
 
-## Typography
+## タイポグラフィ
 
-### Body Copy
+### 本文
 
-- Font size (paragraph): 15px
+- フォントサイズ（段落）: 15px
 
-### Font
+### フォント
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 400, 700
+- ファミリー: [Outfit](https://fonts.google.com/specimen/Outfit)
+- 太さ: 400, 700
