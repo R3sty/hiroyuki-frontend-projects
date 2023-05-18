@@ -1,5 +1,40 @@
-div {
-    width: 200px;
-    height: 200px;
-    background-color: aqua;
+p{
+    color: gray;
+    font-size: 15px;
+
+}
+h1{
+    font-size: 24px;
+    
+
+}
+
+.qrkode{
+    padding: 5px;
+ 
+
+}
+
+.container{
+    border-radius:10px 10px 10px 10px;
+    padding: 5px;
+    background-color: white;
+    text-align: center;
+    height: 500px;
+    width: 300px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+
+    
+}
+
+
+
+body{
+    background-color: hsl(219, 73%, 84%);
+   
 }
